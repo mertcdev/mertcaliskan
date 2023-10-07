@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertcdev&show_icons=true&locale=en&layout=compact" alt="mertcdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertcdev&show_icons=true&locale=en" alt="mertcdev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertcdev&" alt="mertcdev" /></p>
